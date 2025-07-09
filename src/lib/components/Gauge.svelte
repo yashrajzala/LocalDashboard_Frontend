@@ -142,6 +142,11 @@
 			stroke-dashoffset 0.8s ease-out,
 			stroke 0.4s ease-in-out;
 	}
+	.gauge-description {
+		font-size: 0.9rem;
+		color: #666;
+		margin-top: 4px;
+	}
 	.gauge-fill:hover {
 		stroke-width: 12;
 	}
